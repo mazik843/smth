@@ -1,3 +1,2 @@
 # smth
-site things to create
-what a hole.
+site things to test. Need to make data base for future.
